@@ -1,4 +1,4 @@
-### Hi there 👋
+At the moment I am practicing Python programming. I think that Python is a great programming language.
 
 <!--
 **Pypersonic/Pypersonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
